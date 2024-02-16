@@ -1,4 +1,4 @@
 # demo
 This is a demo project.
 <br>
-Author - Akanksha
+Author - Akanksha Jatukarna
